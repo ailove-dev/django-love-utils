@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='django-love-utils',
-    version='0.2.2',
+    version='0.1',
     url='https://github.com/ailove-dev/django-love-utils',
     license='MIT',
     author='Ailove',
