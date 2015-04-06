@@ -13,7 +13,7 @@ setup(
     include_package_data=True,
     platforms='any',
     install_requires=[
-        'django>=1.5',
+        'django>=1.7',
     ],
     tests_require=['Django'],
     classifiers=[
