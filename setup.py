@@ -22,7 +22,7 @@ def get_package_data(package):
 
 setup(
     name='django-love-utils',
-    version='0.1.0',
+    version='0.1.1',
     url='https://github.com/ailove-dev/django-love-utils',
     license='MIT',
     author='Ailove',
